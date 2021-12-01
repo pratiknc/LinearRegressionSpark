@@ -1,5 +1,5 @@
 Project Name: Linear Regression on Spark From Scratch
-<br>LinearRegressionSparkScratch.py file implements Multiple Linear Regression using Ordinary Lease Squares Method on Spark Cluster. No pre-packaged libraries are used to calculate the Ordinary Lease Squares.
+<br>LinearRegressionSparkScratch.py file implements Multiple Linear Regression using Ordinary Lease Squares Method on Spark Cluster. Matrix manipulation (Multiplication, Transpose, Inverse) are performed and Ordinary Least Squares are calculated.
 <br>
 <br>Copy the python file in a location on the Spark cluster at an accessible location.
 <br>Place your input files to the Spark cluster and move them to HDFS using the below command<br>
